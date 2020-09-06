@@ -7,7 +7,6 @@ public class Demo {
         System.out.println("Helllo");
     }
     public int sqrt(int x) {
-        x = x * x;
-        return x;
+        return x * x;
     }
 }
